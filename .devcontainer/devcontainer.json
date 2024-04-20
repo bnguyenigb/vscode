@@ -31,7 +31,10 @@
 				"GitHub.vscode-pull-request-github",
 				"ms-vscode.vscode-github-issue-notebooks",
 				"ms-vscode.vscode-selfhost-test-provider",
-				"mutantdino.resourcemonitor"
+				"mutantdino.resourcemonitor",
+				"jrieken.vscode-pr-pinger",
+				"eamodio.gitlens",
+				"ms-vscode-remote.remote-containers"
 			]
 		}
 	},
